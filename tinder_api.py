@@ -9,8 +9,8 @@ from geopy.geocoders import Nominatim
 from secrets import apitoken
 
 TINDER_URL = "https://api.gotinder.com"
-geolocator = Nominatim(user_agent="Yenta")
-PROF_FILE = r"A:\CNN\images\unclassified\profiles.txt"
+geolocator = Nominatim(user_agent="Downloader")
+PROF_FILE = r"..\profiles.txt"
 
 
 class tinderAPI():
