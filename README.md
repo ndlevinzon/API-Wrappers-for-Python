@@ -1,18 +1,13 @@
-//TinderAPI
+//API Wrappers for Python
 
 //Introduction
-Hello! This is a Tinder API Wrapper and Scraper written entirely in Python! 
-This project has no affiliation with Tinder Inc. or its partners.
-I have found great personal use from this code in training CNN and OR algorithms.
+Hello! This is a collection of API Wrappers and Tools I have Created in Python! 
+This project has no affiliation with the API's source or its partners.
+I have found great personal use from these codes in training CNN and OR algorithms.
 Please use with care and have fun! I would love to know how you use this data in your own Neural Networks!
 -NDL, 2020
 
 //Installation
-Binary Install
-
-  On Ubuntu systems, apt-get can be used to install TinderAPI:
-
-    sudo apt install TinderAPI
 
 Source Install
 
