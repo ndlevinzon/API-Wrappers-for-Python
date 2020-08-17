@@ -26,12 +26,12 @@ def students():
     if next == "l":
        df = pd.read_json("students.json")
        df.to_csv("students.csv")
-
     if next == "r":
         students()
     if next == "q":
         open("people.json", "w")
         open("people.csv", "w")
         exit()
+        
 students()
 
