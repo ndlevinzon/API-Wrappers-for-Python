@@ -33,6 +33,5 @@ def students():
         open("people.json", "w")
         open("people.csv", "w")
         exit()
-
 students()
 
