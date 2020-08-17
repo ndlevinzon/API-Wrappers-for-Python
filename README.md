@@ -20,7 +20,7 @@ Please use with care and have fun! I would love to know how you use this data in
 
     Clone the repository
 
-      git clone https://github.com/ndlevinzon/TinderAPI
+      git clone https://github.com/ndlevinzon/API-Wrappers-for-Python
 
     
 
